@@ -12,12 +12,15 @@
   <img src="https://img.shields.io/badge/-C%20Sharp-purple?style=for-the-badge&logo=C+Sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/-C++-purple?style=for-the-badge&logo=C&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-Java-7e191b?style=for-the-badge&logo=Java&logoColor=white" alt="Java">
   <h2>Version Control:</h2>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub" alt="GitHub">
   <h2>Tools:</h2>
   <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code" alt="VSCode">
   <img src="https://img.shields.io/badge/Distro-Solus%20OS-9400D3?style=for-the-badge&logo=Solus&logoColor=purple" alt="Solus OS">
+  <img src="https://img.shields.io/badge/IDE-PyCharm-edef00?style=for-the-badge&logo=PyCharm" alt="PyCharm">
+  <img src="https://img.shields.io/badge/IDE-IntelliJ%20Idea-9696ea?style=for-the-badge&logo=IntelliJ%20Idea" alt="IntelliJ Idea">
 </div>
 <hr>
 <h1 align="center">Stats</h1>
