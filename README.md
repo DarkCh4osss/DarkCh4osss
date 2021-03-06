@@ -13,6 +13,11 @@
   <img src="https://img.shields.io/badge/-C++-purple?style=for-the-badge&logo=C&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/-Java-7e191b?style=for-the-badge&logo=Java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-Rust-brown?style=for-the-badge&logo=Rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/-Typescript-blue?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript">
+  
+  
   <h2>Version Control:</h2>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub" alt="GitHub">
