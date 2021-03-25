@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/-Lua-blue?style=for-the-badge&logo=Lua&logoColor=white" alt="Lua">
   <img src="https://img.shields.io/badge/-C%20Sharp-purple?style=for-the-badge&logo=C+Sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/-C++-purple?style=for-the-badge&logo=C&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/-Java-7e191b?style=for-the-badge&logo=Java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/-Rust-brown?style=for-the-badge&logo=Rust&logoColor=white" alt="Rust">
@@ -24,7 +23,7 @@
   <h2>Tools:</h2>
   <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code" alt="VSCode">
   <img src="https://img.shields.io/badge/Distro-Solus%20OS-9400D3?style=for-the-badge&logo=Solus&logoColor=purple" alt="Solus OS">
-  <img src="https://img.shields.io/badge/IDE-PyCharm-edef00?style=for-the-badge&logo=PyCharm" alt="PyCharm">
+  <img src="https://img.shields.io/badge/IDE-Rider-ff0000?style=for-the-badge&logo=Rider" alt="Rider">
   <img src="https://img.shields.io/badge/IDE-IntelliJ%20Idea-9696ea?style=for-the-badge&logo=IntelliJ%20Idea" alt="IntelliJ Idea">
 </div>
 <hr>
