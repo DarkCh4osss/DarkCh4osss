@@ -30,10 +30,7 @@
 <h1 align="center">Stats</h1>
 <div>
   <a href="https://github.com/DarkCh4osss/DarkCh4osss">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkCh4osss&exclude_repo=dotfiles&show_icons=true&hide_border=true"/>
-  </a>
-  <a href="https://github.com/DarkCh4osss/DarkCh4osss">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkCh4osss&show_icons=true&count_private=true&hide_border=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkch4osss&show_icons=true&theme=radical"/>
   </a>
 </div>
 <hr>
