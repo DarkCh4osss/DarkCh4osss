@@ -28,9 +28,12 @@
 </div>
 <hr>
 <h1 align="center">Stats</h1>
-<div>
+<div align="center">
   <a href="https://github.com/DarkCh4osss/DarkCh4osss">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkch4osss&show_icons=true&theme=radical"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=darkch4osss&show_icons=true&theme=radical"/>
+  </a>
+  <a href="https://github.com/DarkCh4osss/DarkCh4osss">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkch4osss&theme=radical" />
   </a>
 </div>
 <hr>
