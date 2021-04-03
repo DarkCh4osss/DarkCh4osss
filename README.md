@@ -3,6 +3,7 @@ Hey 👋🏻,
 - 👀 I’m currently working on React projects
 - 🦀 I’m currently learning Rust
 - 💬 Ask me about anything
+- 👨‍💻Linux User | Distro: Solus OS
 
 ## 📬 Get in touch
 
