@@ -7,7 +7,7 @@ Hey 👋🏻,
 ## 📬 Get in touch
 
 - Web: [fabiogrimaldi-dev.it][1]
-- LinkedIn: [linkedin.com/in/fabiogrimaldi][2]
+- LinkedIn: [linkedin.com/in/fabio-grimaldi][2]
 - Twitter: [twitter.com/dch4off][3]
 
 ## &#x1f4c8; My GitHub Stats
@@ -22,5 +22,5 @@ Hey 👋🏻,
 
 [1]:
   https://fabiogrimaldi-dev.it
-[2]: https://www.linkedin.com/in/fabiogrimaldi
+[2]: https://www.linkedin.com/in/fabio-grimaldi
 [3]: https://twitter.com/dch4off
