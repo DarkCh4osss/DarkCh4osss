@@ -7,7 +7,7 @@ Hey 👋🏻,
 
 ## 📬 Get in touch
 
-- Web: [fabiogrimaldi-dev.it][1]
+- Web: [fabiogrimaldi.dev][1]
 - LinkedIn: [linkedin.com/in/fabio-grimaldi][2]
 - Twitter: [twitter.com/dch4off][3]
 - Email: fabio@fabiogrimaldi-dev.it
@@ -24,6 +24,6 @@ Hey 👋🏻,
 </a>
 
 [1]:
-  https://fabiogrimaldi-dev.it
+  https://fabiogrimaldi.dev
 [2]: https://www.linkedin.com/in/fabio-grimaldi
 [3]: https://twitter.com/dch4off
