@@ -10,7 +10,7 @@ Hey 👋🏻,
 - Web: [fabiogrimaldi.dev][1]
 - LinkedIn: [linkedin.com/in/fabio-grimaldi][2]
 - Twitter: [twitter.com/dch4off][3]
-- Email: fabio@fabiogrimaldi-dev.it
+- Email: darkch4os@icloud.com
 - Discord: ! 𝚍𝚊𝚛𝚔🌺#2523 (just copy and paste)
 
 ## &#x1f4c8; My GitHub Stats
