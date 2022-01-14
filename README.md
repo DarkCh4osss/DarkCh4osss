@@ -10,13 +10,13 @@ DE:         Budgie
 Shell:      zsh 5.8
 Terminal:   alacritty
 Alias:      fab/dark
-Pronouns:   she/they
+Pronouns:   he/they
 Languages:  HTML, CSS, JavaScript, TypeScript
 Discord:    318033828864196609
 Website:    fabiogrimaldi.dev
 ```
 
-<p align="left">
+<p>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
   <img alt="#eb6f92" src="https://via.placeholder.com/15/eb6f92/000000?text=+" width="25" height="20" />
