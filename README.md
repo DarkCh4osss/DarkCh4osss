@@ -1,29 +1,28 @@
-Hey 👋🏻,
+```zsh
+> neofetch
+```
 
-- 👀 I’m currently working on React projects
-- 🦀 I’m currently learning Rust
-- 💬 Ask me about anything
-- 👨‍💻Linux User | Distro: Solus OS
+```csharp
+fabio@dark
+------------------------------
+OS:         Solus OS x86_64
+DE:         Budgie
+Shell:      zsh 5.8
+Terminal:   alacritty
+Alias:      fab/dark
+Pronouns:   she/they
+Languages:  HTML, CSS, JavaScript, TypeScript
+Discord:    318033828864196609
+Website:    fabiogrimaldi.dev
+```
 
-## 📬 Get in touch
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-- Web: [fabiogrimaldi.dev][1]
-- LinkedIn: [linkedin.com/in/fabio-grimaldi][2]
-- Twitter: [twitter.com/dch4off][3]
-- Email: fabio@fabiogrimaldi.dev
-- Discord: ! 𝚍𝚊𝚛𝚔🌺#2523 (just copy and paste)
-
-## &#x1f4c8; My GitHub Stats
-
-<a href="https://github.com/darkch4osss/darkch4osss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkch4osss&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/darkch4osss/darkch4osss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkch4osss&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
-</a>
-
-[1]:
-  https://fabiogrimaldi.dev
-[2]: https://www.linkedin.com/in/fabio-grimaldi
-[3]: https://twitter.com/dch4off
+  <img alt="#eb6f92" src="https://via.placeholder.com/15/eb6f92/000000?text=+" width="25" height="20" />
+  <img alt="#31748f" src="https://via.placeholder.com/15/31748f/000000?text=+" width="25" height="20" />
+  <img alt="#f6c177" src="https://via.placeholder.com/15/f6c177/000000?text=+" width="25" height="20" />
+  <img alt="#9ccfd8" src="https://via.placeholder.com/15/9ccfd8/000000?text=+" width="25" height="20" />
+  <img alt="#c4a7e7" src="https://via.placeholder.com/15/c4a7e7/000000?text=+" width="25" height="20" />
+  <img alt="#ebbcba" src="https://via.placeholder.com/15/ebbcba/000000?text=+" width="25" height="20" />
+</p>
