@@ -3,17 +3,26 @@
 ```
 
 ```csharp
-fabio@dark
-------------------------------
-OS:         Solus OS x86_64
-DE:         Budgie
-Shell:      zsh 5.8
-Terminal:   alacritty
-Alias:      fab/dark
-Pronouns:   he/they
-Languages:  HTML, CSS, JavaScript, TypeScript
-Discord:    318033828864196609
-Website:    fabiogrimaldi.dev
+            -'''''''''''                  dark@dark
+          `-+/------------.`              ---------
+       .---:mNo---------------.           OS: Solus x86_64
+     .-----yMMMy:---------------.         DE: Budgie
+   `------oMMMMMm/----------------`       WM: Mutter(Budgie)
+  .------/MMMMMMMN+----------------.      Shell: zsh 5.8
+ .------/NMMMMMMMMm-+/--------------.     Terminal: alacritty
+`------/NMMMMMMMMMN-:mh/-------------`    Pronouns: he/they
+.-----/NMMMMMMMMMMM:-+MMd//oso/:-----.    Languages:  HTML, CSS, JavaScript, TypeScript
+-----/NMMMMMMMMMMMM+--mMMMh::smMmyo:--    Discord:    318033828864196609
+----+NMMMMMMMMMMMMMo--yMMMMNo-:yMMMMd/.   Website:    fabiogrimaldi.dev
+.--oMMMMMMMMMMMMMMMy--yMMMMMMh:-yMMMy-`   
+`-sMMMMMMMMMMMMMMMMh--dMMMMMMMd:/Ny+y.    
+`-/+osyhhdmmNNMMMMMm-/MMMMMMMmh+/ohm+     
+  .------------:://+-/++++++oshddys:      
+   -hhhhyyyyyyyyyyyhhhhddddhysssso-       
+    `:ossssssyysssssssssssssssso:`        
+      `:+ssssssssssssssssssss+-           
+         `-/+ssssssssssso+/-`
+              `.-----..`
 ```
 
 <p>
