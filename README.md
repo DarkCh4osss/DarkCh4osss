@@ -23,6 +23,29 @@
       ':+ssssssssssssssssssss+-           
          '-/+ssssssssssso+/-'
               '.-----..'
+              
+            .',;::::;,'.                 fab@fab
+         .';:cccccccccccc:;,.            -------
+      .;cccccccccccccccccccccc;.         OS: Fedora Linux 35 (Workstation Edition) x86_64
+    .:cccccccccccccccccccccccccc:.       DE: GNOME 41.3
+  .;ccccccccccccc;.:dddl:.;ccccccc;.     WM: Mutter
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:.    Shell: zsh 5.8
+.:ccccccccccccc;KMMc;cc;xMMc:ccccccc:.   Terminal: alacritty
+,cccccccccccccc;MMM.;cc;;WW::cccccccc,   Pronouns: he/they
+:cccccccccccccc;MMM.;cccccccccccccccc:   Languages:  HTML, CSS, JavaScript, TypeScript
+:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:   Discord:    318033828864196609
+cccccc:0MMKxdd:;MMMkddc.;cccccccccccc;   Website:    fabiogrimaldi.dev
+ccccc:XM0';cccc;MMM.;cccccccccccccccc'  
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;   
+ccccc;0MNc.ccc.xMMd:ccccccccccccccc;   
+cccccc;dNMWXXXWM0::cccccccccccccc:,      
+cccccccc;.:odl:.;cccccccccccccc:,.       
+:cccccccccccccccccccccccccccc:'.         
+.:cccccccccccccccccccccc:;,..            
+  '::cccccccccccccc::;,.                 
+
+
+
 ```
 
 <p>
