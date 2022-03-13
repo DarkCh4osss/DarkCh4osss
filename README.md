@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-```csharp     
+```sh 
             .',;::::;,'.                 fab@fab
          .';:cccccccccccc:;,.            -------
       .;cccccccccccccccccccccc;.         OS: Fedora Linux 35 (Workstation Edition) x86_64
@@ -18,10 +18,10 @@ ccccc:XM0';cccc;MMM.;cccccccccccccccc'
 ccccc;MMo;ccccc;MMW.;ccccccccccccccc;   
 ccccc;0MNc.ccc.xMMd:ccccccccccccccc;   
 cccccc;dNMWXXXWM0::cccccccccccccc:,      
-cccccccc;.:odl:.;cccccccccccccc:,.       
-:cccccccccccccccccccccccccccc:'.         
-.:cccccccccccccccccccccc:;,..            
-  '::cccccccccccccc::;,.                 
+cccccccc;.:odl:.;cccccccccccccc:,.
+:cccccccccccccccccccccccccccc:'.
+.:cccccccccccccccccccccc:;,..
+  '::cccccccccccccc::;,.
 
 
 
