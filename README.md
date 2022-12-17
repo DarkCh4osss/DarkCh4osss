@@ -5,8 +5,8 @@
 ```sh 
             .',;::::;,'.                 fab@fab
          .';:cccccccccccc:;,.            -------
-      .;cccccccccccccccccccccc;.         OS: Fedora Linux 35 (Workstation Edition) x86_64
-    .:cccccccccccccccccccccccccc:.       DE: GNOME 41.3
+      .;cccccccccccccccccccccc;.         OS: Fedora Linux 36 (Workstation Edition) x86_64
+    .:cccccccccccccccccccccccccc:.       DE: GNOME 43
   .;ccccccccccccc;.:dddl:.;ccccccc;.     WM: Mutter
  .:ccccccccccccc;OWMKOOXMWd;ccccccc:.    Shell: zsh 5.8
 .:ccccccccccccc;KMMc;cc;xMMc:ccccccc:.   Terminal: alacritty
