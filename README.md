@@ -3,30 +3,16 @@
 ```
 
 ```sh 
-            .',;::::;,'.                 fab@fab
-         .';:cccccccccccc:;,.            -------
-      .;cccccccccccccccccccccc;.         OS: Fedora Linux 36 (Workstation Edition) x86_64
-    .:cccccccccccccccccccccccccc:.       DE: GNOME 43
-  .;ccccccccccccc;.:dddl:.;ccccccc;.     WM: Mutter
- .:ccccccccccccc;OWMKOOXMWd;ccccccc:.    Shell: zsh 5.8
-.:ccccccccccccc;KMMc;cc;xMMc:ccccccc:.   Terminal: alacritty
-,cccccccccccccc;MMM.;cc;;WW::cccccccc,   Pronouns: he/they
-:cccccccccccccc;MMM.;cccccccccccccccc:   Languages:  HTML, CSS, JavaScript, TypeScript
-:ccccccc;oxOOOo;MMM0OOk.;cccccccccccc:   Discord:    318033828864196609
-cccccc:0MMKxdd:;MMMkddc.;cccccccccccc;   Website:    fabiogrimaldi.dev
-ccccc:XM0';cccc;MMM.;cccccccccccccccc'  
-ccccc;MMo;ccccc;MMW.;ccccccccccccccc;   
-ccccc;0MNc.ccc.xMMd:ccccccccccccccc;   
-cccccc;dNMWXXXWM0::cccccccccccccc:,      
-cccccccc;.:odl:.;cccccccccccccc:,.
-:cccccccccccccccccccccccccccc:'.
-.:cccccccccccccccccccccc:;,..
-  '::cccccccccccccc::;,.
-
-
-
+        ,'''''.   fab@faaaab
+       |   ,.  |  os     Fedora Linux 38 (Workstation Edition)
+       |  |  '_'  host   B450M DS3H
+  ,....|  |..     kernel 6.3.8-200.fc38.x86_64
+.'  ,_;|   ..'    languages HTML - CSS - JavaScript - TypeScript
+|  |   |  |       website   fabiogrimaldi.dev
+|  ',_,'  |       discord 318033828864196609
+ '.     ,'
+   '''''
 ```
-
 <p>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
